@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"I need a TypeScript event bus that can receive class instances as parameters. It should differentiate and manage these instances based on their type.","md5":"b37eda48ea265719170e91934e1cf3a5"}]}
